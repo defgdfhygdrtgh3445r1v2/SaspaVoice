@@ -1,0 +1,5 @@
+{
+  "name": "Saspa Voice",
+  "description": "A video conferencing application with WebRTC and Socket.io",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"]
+}
